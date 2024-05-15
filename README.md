@@ -1,2 +1,2 @@
 # academiaDeCodigoExercises
-Some exercises that I have maded in Academia de Código (not optimized yet)
+Some exercises that I have made in Academia de Código.
